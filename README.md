@@ -6,8 +6,8 @@
 * [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-est-dec-log-par-pro-com-bas)
 * [x] [Estruturas “se-então-senão” — Teoria.](https://github.com/Devsgeeknerd/cla-est-ent-sen-teo-est-dec-log-par-pro-com-bas)
 * [x] [Estrutura “se-então-senão” — Prática.](https://github.com/Devsgeeknerd/cla-est-ent-sen-pra-est-dec-log-par-pro-com-bas)
-* [ ] [Estruturas “escola-caso” — Teoria.](https://github.com/Devsgeeknerd/cla-est-esc-cas-teo-est-dec-log-par-pro-com-bas) &#128679;
-* [ ] [Estrutura “escola-caso” — Prática.](https://github.com/Devsgeeknerd/cla-est-esc-cas-pra-est-dec-log-par-pro-com-bas) &#128679;
+* [ ] [Estruturas “escolha-caso” — Teoria.](https://github.com/Devsgeeknerd/cla-est-esc-cas-teo-est-dec-log-par-pro-com-bas) &#128679;
+* [ ] [Estrutura “escolha-caso” — Prática.](https://github.com/Devsgeeknerd/cla-est-esc-cas-pra-est-dec-log-par-pro-com-bas) &#128679;
 
 <!-- Information -->
 ## &#8505; Informações
